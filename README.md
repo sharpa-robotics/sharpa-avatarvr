@@ -1,10 +1,10 @@
-# SHARPA “PILOT VR” PRIVACY POLICY
+# SHARPA “**Sharpa AvatarVR**” PRIVACY POLICY
 
 **Effective date:** September 28, 2026
 
 **Organization:** Sharpa Inc. and its affiliates (“Sharpa”, “we”, “us”, or “our”)
 
-**Application:** Pilot VR (the “App”), distributed on Meta Quest / the Meta Horizon Store
+**Application:** **Sharpa AvatarVR** (the “App”), distributed on Meta Quest / the Meta Horizon Store
 
 **Contact:** sales@sharpa.com
 
@@ -12,9 +12,9 @@
 
 # 1. Overview
 
-This Privacy Policy is managed by Sharpa. It explains what user data Pilot VR processes, how that data is used, and how you may request deletion. This Policy applies to the App as made available on Meta Quest headsets through the Meta Horizon Store.
+This Privacy Policy is managed by Sharpa. It explains what user data **Sharpa AvatarVR** processes, how that data is used, and how you may request deletion. This Policy applies to the App as made available on Meta Quest headsets through the Meta Horizon Store.
 
-Pilot VR is an invitation-only teleoperation companion for Sharpa’s self-developed products. It is bundled with authorized Sharpa products (the “Authorized Device”), including “Sharpa D01” robot and “Sharpa AE01” wearable exoskeleton-based data gloves, and is not a standalone consumer product. It is not publicly searchable in the Meta Horizon Store.
+**Sharpa AvatarVR** is an invitation-only teleoperation companion for Sharpa’s self-developed products. It is bundled with authorized Sharpa products (the “Authorized Device”), including “Sharpa D01” robot and “Sharpa AE01” wearable exoskeleton-based data gloves, and is not a standalone consumer product. It is not publicly searchable in the Meta Horizon Store.
 
 # 2. What Data We Collect
 
@@ -46,7 +46,7 @@ If you contact Sharpa about the App, we will receive the information you choose 
 
 ## 2.3 Data we do not collect
 
-Pilot VR does not collect, record, store, upload or process the operator’s body or glove motion, or the operator’s VR view. Real-time control signals and robot or simulation imagery are processed locally on the device or local network to operate the product and are not uploaded as user data. If you do not authorize diagnostic upload, the App will not send robot ID, SN, or VR-program error logs to Sharpa.
+**Sharpa AvatarVR** does not collect, record, store, upload or process the operator’s body or glove motion, or the operator’s VR view. Real-time control signals and robot or simulation imagery are processed locally on the device or local network to operate the product and are not uploaded as user data. If you do not authorize diagnostic upload, the App will not send robot ID, SN, or VR-program error logs to Sharpa.
 
 # 3. How We Use Data
 
@@ -84,9 +84,9 @@ Support emails are kept as needed to complete the request. Data stored in this A
 
 # 6. Your Rights and How to Request Deletion
 
-All users, regardless of region, may request deletion of user data that Sharpa has collected or stored in connection with Pilot VR. There is no fee. Depending on where you live, you may also request access to or correction of your data, or withdraw consent for optional diagnostic upload.
+All users, regardless of region, may request deletion of user data that Sharpa has collected or stored in connection with **Sharpa AvatarVR**. There is no fee. Depending on where you live, you may also request access to or correction of your data, or withdraw consent for optional diagnostic upload.
 
-Email sales@sharpa.com with the subject line “Pilot VR Teleoperation Data Deletion Request”. Please include, if available, your Meta display name or app-scoped user ID, invitation code or approximate invitation date, and the Authorized Device ID and/or SN.
+Email sales@sharpa.com with the subject line “**Sharpa AvatarVR** Teleoperation Data Deletion Request”. Please include, if available, your Meta display name or app-scoped user ID, invitation code or approximate invitation date, and the Authorized Device ID and/or SN.
 
 We will verify the request and, within 30 days or sooner if required by law, delete or anonymize Sharpa-controlled records that reasonably relate to you. Uninstalling the App removes local App data. Sharpa cannot delete Meta account data or Meta-controlled backups; please use Meta’s settings or support for those.
 
